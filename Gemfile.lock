@@ -118,7 +118,7 @@ GEM
       activerecord (>= 5.a)
       database_cleaner-core (~> 2.0)
     database_cleaner-core (2.0.1)
-    date (3.5.1)
+    date (3.6.0)
     diff-lcs (1.6.2)
     domain_name (0.6.20240107)
     dotenv (3.0.2)
@@ -211,12 +211,12 @@ GEM
     mysql2 (0.5.6)
     net-http (0.4.1)
       uri
-    net-imap (0.6.4)
+    net-imap (0.6.4.1)
       date
       net-protocol
     net-pop (0.1.2)
       net-protocol
-    net-protocol (0.2.2)
+    net-protocol (0.4.0)
       timeout
     net-smtp (0.5.1)
       net-protocol
